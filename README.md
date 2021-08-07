@@ -1,3 +1,17 @@
+<img  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img  alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+# Overview 
+A simple weather application made using basic React and CSS. It uses the OpenWeatherMap API to fetch realtime weather data.
+
+# Screenshots 
+<br><br>
+![screenshot-1](https://user-images.githubusercontent.com/56267419/128615723-e65676db-d95b-4083-b2a9-948f5fa18888.png)
+<br><br>
+![screenshot-2](https://user-images.githubusercontent.com/56267419/128615732-fb278639-4066-4ac0-8b81-37d020c32b6c.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
